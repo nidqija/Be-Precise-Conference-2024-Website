@@ -44,4 +44,37 @@ body{
     font-size: 22px;
 }
 
+.home{
+    position: relative;
+    
+}
+
+#explore{
+    position: relative;
+    top: 10rem;
+    height: 50px;
+    width: 100px;
+    border-radius: 20px;
+}
+
+.about{
+    background-color: white;
+    height: 500px;
+    width: 100%;
+}
+
+#title2{
+    font-family: Playfair Display;
+    font-weight: 500;
+    text-decoration: underline;
+    position: relative;
+    top: 2rem;
+}
+
+#desc-1{
+    height: 400px;
+    width: 500px;
+    box-shadow: 20px 20px 20px 200px black;
+}
+
 
