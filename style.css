@@ -131,6 +131,36 @@ body{
     box-shadow: 2px 2px 25px  rgb(175, 175, 175);
 }
 
+.content-2{
+    background-color: purple;
+    height: 2000px;
+    width: 100%;
+    position: absolute;
+    top: 115rem;
+}
+#commitee{
+    font-family: Playfair Display;
+    position: relative;
+    top: 2rem;
+}
+
+#line{
+  height: 1600px; 
+  width: 5px;
+  align-items: center;
+  position: relative;
+  left: 85%;
+  top: 7rem;
+  border-radius: 20px;
+
+}
+
+#card-events{
+    -webkit-box-flex: initial;
+    position: relative;
+    top: 55rem;
+}
+
 
 
 
