@@ -10,12 +10,13 @@
 
 html{
     scroll-behavior: smooth;
+    min-height: 100%;
 }
 
-body{
-    height: 5000vh;
-   
-}
+
+
+
+
 
 #image{
     height: 120px;
@@ -173,11 +174,10 @@ body{
     background: url('https://png.pngtree.com/background/20230625/original/pngtree-flying-colorful-tablets-in-a-3d-illustration-against-a-purple-background-picture-image_4038955.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    box-shadow: inset 0px 0px 400px 400px rgba(0, 0, 0, .7);
-    height: 1200px;
+    box-shadow: inset 0px 0px 400px 1000px rgba(0, 0, 0, .7);
+    height: 2700px;
     width: 100%;
     font-family: Playfair Display;
-    position: relative;
     top: 60rem;
 }
 
@@ -193,7 +193,7 @@ body{
 }
 
 .speakers{
-    height: 990px;
+    height: 1100px;
     background: purple;
     width: 100%;
     position: relative;
@@ -223,6 +223,34 @@ body{
     right: 43px;
     bottom: 17rem;
 }
+
+
+.register{
+    position: relative;
+    top: 60rem;
+
+}
+
+#copyright{
+  background: darkslategray;
+  height: 1000px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
