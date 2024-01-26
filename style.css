@@ -174,6 +174,7 @@ html{
     box-shadow: inset 0px 0px 400px 1000px rgba(0, 0, 0, .7);
     width: 100%;
     font-family: Playfair Display;
+    
 }
 
 #line{
@@ -193,6 +194,13 @@ html{
     width: 100%;
     position: relative;
     
+    
+}
+
+
+.register{
+    background-color: rgb(184, 127, 184);
+    height: 1000px;
 }
 
 #roller{
@@ -219,11 +227,7 @@ html{
 }
 
 
-.register{
-    position: relative;
-    top: 60rem;
 
-}
 
 #copyright{
   background: darkslategray;
@@ -237,6 +241,26 @@ html{
     width: 100%;
     height: 100vh;
 }
+
+
+
+
+.sponsors{
+    background: url('https://clinicalresearch.my/wp-content/uploads/2016/06/1-Sub-banner-Prime-Site_Hospital-Kuala-Lumpur_Large.jpg');
+    background-size: cover;
+    background-position: 1px;
+    background-repeat: no-repeat;
+    box-shadow: inset 0px 0px 400px 1000px rgba(0, 0, 0, .7);
+    
+}
+
+
+
+
+
+
+
+
 
 
 
