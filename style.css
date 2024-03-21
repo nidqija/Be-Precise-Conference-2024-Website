@@ -57,7 +57,7 @@ body{
 
 .menu{
     background-color: rgb(139, 18, 38);
-
+    padding: 12px 13px;
 }
 
 .navbar-nav{
@@ -246,6 +246,14 @@ body{
     box-shadow: inset 0px 0px 400px 1000px rgba(0, 0, 0, .7);
     
 }
+
+
+
+
+
+
+
+
 
 
 
